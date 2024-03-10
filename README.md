@@ -14,7 +14,10 @@ Analysis of HR data using the PowerBI tool
 - [Recommendations](#recommendations)
 - [References](#references)
 
+---
+
 ### Project Overview
+---
 
 This data analysis project aims to provide insight into the professional HR Data analysis of a company. By analyzing various aspects of the HR data, I seek to identify the trends and gain a deeper understanding of new hires and existing employee retention.
 
@@ -98,7 +101,16 @@ Based on the analysis, I recommend the following actions:
 - Coursera
 - Microsoft guide for Power BI
 
+👍
 
+|Heading1|Heading2|
+|--------|--------|
+|Content |Content2|
+|Data Analysis| PowerBI|
 
+'column_1'
 
+**bold*
+
+*italic*
 
