@@ -76,6 +76,7 @@ Include some interesting codes/features that I have worked with
 - Advanced visualization charts like Horizontal Funnel, Tornado, Ribbon and Aster plot charts etc.
 - Customized dashboard.
   
+![HR Analysis](https://github.com/SmitaPinjan/HR-Analysis-Dashboard-using-Power-BI/assets/152721562/8f430284-6cb6-4059-8e24-8d7a1a54c3fe)
 
 ### Insights
 
