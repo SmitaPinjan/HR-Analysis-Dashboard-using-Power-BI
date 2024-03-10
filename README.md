@@ -101,16 +101,9 @@ Based on the analysis, I recommend the following actions:
 - Coursera
 - Microsoft guide for Power BI
 
-👍
-
 |Heading1|Heading2|
 |--------|--------|
 |Content |Content2|
 |Data Analysis| PowerBI|
 
-'column_1'
-
-**bold*
-
-*italic*
 
