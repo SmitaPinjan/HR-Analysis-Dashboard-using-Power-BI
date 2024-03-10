@@ -40,6 +40,7 @@ This project was a capstone project, part of the Coursera PowerBI advanced skill
 ### Tools 
 Tools used for Data Cleaning, Data Analysis and Report generation :
 - Excel
+  [Download here]
 - PowerBI
 
 ### Data Cleaning
