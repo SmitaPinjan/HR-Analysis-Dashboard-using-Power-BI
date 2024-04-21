@@ -21,13 +21,12 @@ Analysis of HR data using the PowerBI tool
 
 This data analysis project aims to provide insight into the professional HR Data analysis of a company. By analyzing various aspects of the HR data, I seek to identify the trends and gain a deeper understanding of new hires and existing employee retention.
 
-### Problem Statement
+### Project Overview and Problem Statement
 
-"Market fluctuations and rapidly changing technology have affected the global market. Many published reports showed that around half of the employees wanted to change jobs. While some market researchers said that flexible working and job security were their primary factors, few admitted that a higher salary was their aim.
+Market fluctuations and rapidly changing technology affect the global market. Many published reports showed that around half of the employees wanted to change jobs. While some market researchers said that flexible working and job security were their primary factors, few admitted that a higher salary was their aim.
 
-Different regions saw an increase and a decrease in salaries over the years. While the increase was to retain top-level professional employees, the pay cuts were due to market fluctuations and were reported after the market conditions improved. HR people across the globe are hiring new employees, trying to retain and understand the needs of employees who got separated (those who left the company).
-
-So, how does the HR department make these decisions in volatile market conditions? They rely on HR analytics to understand the existing situation and develop a new modern approach. For this requirement, you have been asked in your company to build a dashboard in Power BI considering the challenges of HR people and provide an effective way to find the answers to their day-to-day questions."
+So, how does the HR department make these decisions in volatile market conditions? They rely on HR analytics to understand the existing situation and develop a new modern approach. 
+For this requirement, I have analyzed and built a dashboard in Power BI considering the challenges of HR people and providing an effective way to find the answers to their day-to-day questions.
 
 Task- Use the HR data set provided for this project and analyze that to understand the data and terms and provide insights.
 
@@ -35,7 +34,7 @@ Task- Use the HR data set provided for this project and analyze that to understa
 
 HR Data: The primary dataset used for this analysis is the "HR-Data.xlsx" file,
 containing employee information.
-This project was a capstone project, part of the Coursera PowerBI advanced skill development course.  The data is taken from Coursera. 
+This project was a capstone (graded) project, part of the Coursera PowerBI advanced skill development course.  The dataset is taken from Coursera. 
 
 ### Tools 
 Tools used for Data Cleaning, Data Analysis and Report generation :
