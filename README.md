@@ -21,7 +21,7 @@ Analysis of HR data using the PowerBI tool
 
 This data analysis project aims to provide insight into the professional HR Data analysis of a company. By analyzing various aspects of the HR data, I seek to identify the trends and gain a deeper understanding of new hires and existing employee retention.
 
-### Project Overview and Problem Statement
+### Problem Statement
 
 Market fluctuations and rapidly changing technology affect the global market. Many published reports showed that around half of the employees wanted to change jobs. While some market researchers said that flexible working and job security were their primary factors, few admitted that a higher salary was their aim.
 
