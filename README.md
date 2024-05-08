@@ -1,6 +1,9 @@
 # Employee Attrition Rate ( HR Data Analysis using Power BI)
 Analysis of HR data using the PowerBI tool
 
+![HR Dashboard](https://github.com/SmitaPinjan/HR-Analysis-Dashboard-using-Power-BI/assets/152721562/2511464c-d2f1-48af-b343-7e8bf3bcd852)
+
+
 ### Table of Contents
 
 - [Project Overview](#project-overview)
